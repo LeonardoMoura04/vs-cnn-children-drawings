@@ -8,7 +8,7 @@ Neste repositório contém:
 
 - Código para treinar e validar o modelo
 - Os dados utilizados para a realização do treinamento
-- Os pesos (weights) de pré-treino para a inicialização do projeto
+- [Os pesos (weights) de pré-treino](https://drive.google.com/file/d/1nXPiqc8uMxgd9dlIT0JooSoMEpMhXxCB/view?usp=share_link) para a inicialização do projeto
 
 ## Requisitos mínimos
 
